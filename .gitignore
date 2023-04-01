@@ -1,3 +1,4 @@
 .venv/
 temp/*
 !temp/README.md
+!temp/BTC_USD_2019-02-28_2020-02-27-CoinDesk.csv
